@@ -1,6 +1,11 @@
 [package]
-name = "rust_cli_remove"
+name = "remove_cli"
 version = "0.1.0"
 edition = "2021"
+
+license-file = "LICENSE.txt"
+description = "copy contains of given file to another."
+homepage = "https://github.com/truquy"
+repository = "https://github.com/truquy/copy_CLI_Rust"
 
 [dependencies]
