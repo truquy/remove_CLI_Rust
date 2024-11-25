@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "rust_cli_remove"
+name = "remove_cli"
 version = "0.1.0"
